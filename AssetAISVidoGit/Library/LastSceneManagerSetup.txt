@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Snow8Hit/Platformer Tileset - Pixelart Snow Mountain/Scenes/Tileset
+    Gallery.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
