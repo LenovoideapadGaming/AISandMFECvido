@@ -89,10 +89,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -102,8 +104,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -131,6 +133,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -664,9 +667,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Pillar 01 TB-256: -6854606331457531820
+      Bridge 02 LR-380: -1680109579839308107
+      Pillar 09 TB-256: 7476767558729437447
+      Pillar 07 TB-256: 3415119546227447796
+      Pillar 11 TB-256: -6963061746957357464
+      Bridge 01 LR-644: -9095387363092593603
+      Railing 01 LR-64: 5761611466841156356
+      Stairs 01 LR-128-256: 1683519764775799734
+      Pillar 08 TB-256: -3473226328501806744
+      Pillar 13 LR-64 T-256 D-128: -7791768124262235589
+      Arches 01 LR-0-340: -3570165393620002664
+      Pillar 05 TB-512: 5927493344134859066
+      Pillar 12 TB-256: 4204437742454987929
+      Pillar 06 TB-512: 3186768396482584927
+      Arches 02 LR-128: 4049347062903759854
+      Pillar 10 TB-256: 2865869358355176093
+      Pillar 03 TB-256: 1851765049352887842
+      Arch prop 02: -2853978133240725861
+      Railing 02 LR-128: 2170664670247594218
+      Arch prop 01: -2675726926319610091
+      Pillar 14 LR-64 TD-128: 7248905269006332013
+      Pillar 04 TB-512: 7548850278634179925
+      Pillar 02 TB-256: -8665147813315591812
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

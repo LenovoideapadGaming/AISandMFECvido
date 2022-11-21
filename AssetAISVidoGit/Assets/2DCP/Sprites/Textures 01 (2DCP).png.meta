@@ -140,10 +140,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -153,8 +155,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -182,6 +184,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1072,9 +1075,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Platform 07 LR-128: 5102280993158097463
+      Wall 09 LRTB-64: -7245170741062201929
+      Wall 04 LRTB-64: 206450576787650826
+      Roof 02 LR-256: -3514005641740390922
+      Wall 10 LRTB-64: -7224073828889364849
+      Platform 05 LR-96-224: -317810381165318851
+      Wall 05 LRTB-64: 379768080397246835
+      Wall 08 LRTB-64: 2994748346946484179
+      Shadow 01: 353177619474058052
+      Wall 01 LRTB-64: 1632077683150559789
+      Roof 07 TB-64: -5298312847823041094
+      Wall 12 LRTD-64: -7387563040107032449
+      Beam 02 LR-128: -930947206743342105
+      Wall 03 LR-256 TB-64: 8677471416347873637
+      Wall 07 LRTB-64: -1886687909548907791
+      Briks 02 TB-64: 3972484555863512645
+      Wall 11 LRTB-64: 6365125908849038642
+      Beam 01 LR-64: -1125989731673218134
+      Platform 01 LR-128: 6472559063074669014
+      Bricks Block 02 LRTB-64: 8204433636714368875
+      Platform 03 LR-256: -6587635207050377007
+      Bricks Block 01 LRTB-64: 1165001838234060676
+      Wall 06 LRTB-64: -8073244040888276996
+      Platform 04 LR-128: 4151194727582515552
+      Briks 04 TB-64-128-256: -7084171748431892816
+      Wall 02 LRTB-64: 9209488192886729919
+      Roof 09 TB-64: 3614197129089120354
+      Platform 02 LR-256: -1347938168359701866
+      Briks 03 TB-256: -2551243403476327703
+      Beam 04 LR-64: -4584310356759110113
+      Platform 06 LR-256: 8168134097532287733
+      Beam 03 LR-64: -1830143507499944487
+      Platform 08 LR-64 TB-32: -78045555191606972
+      Roof 01 LR-256: 5025233773856918371
+      Roof 08 TB-64: 6773220476028543216
+      Roof 04 LR-256: 8159518565369664752
+      Roof 03 LR-640: 971956440153438114
+      Roof 06 TB-64: -6220080367504489031
+      Briks 01 TB-64: 2104209075111369103
+      Roof 05 LR-640: -6498553289403440261
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

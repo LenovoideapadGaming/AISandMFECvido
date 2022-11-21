@@ -134,10 +134,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -147,8 +149,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -176,6 +178,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1009,7 +1012,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 30459896398b67d80800000000000000
-      internalID: -8253206323839544317
+      internalID: -4411022398961543482
       vertices: []
       indices: 
       edges: []
@@ -1024,9 +1027,47 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cloud 04 (Blurred): -6074261476714486436
+      BG Building 03 (Blurred): 163474069382202118
+      House 03 BG (Blurred): 6849197171754114302
+      Bush 05 (Blurred): 97985520712042729
+      House 02 BG (Blurred): -4411022398961543482
+      Tree Pine 05 (Blurred): 701010953856558896
+      Stones 04 (Blurred): 4267562217521859196
+      Pine Needles 06 (Blurred): -8686475156540293427
+      Stones 03 (Blurred): -5899483887500180312
+      BG Bridge 02 LR-128 (Blurred): 7265703526885160360
+      Bush 02 (Blurred): -8162296317901528679
+      Tree Pine 02 (Blurred): -3740240981187414641
+      Cloud 02 (Blurred): -7008000529349467411
+      BG Bridge 01 LR-128 (Blurred): -4598832124919308699
+      BG Building 01 T-310 B-128 (Blurred): -5331290304776637444
+      Pine Needles 03 (Blurred): 1409309881116252654
+      Tree Pine 04 (Blurred): -4143541199454401157
+      Cloud 01 (Blurred): 5437213662620271355
+      Bush 01 (Blurred): -1133838059554327100
+      House 01 BG (Blurred): 6401108133193933621
+      Pavement 01 LR-128 (Blurred): -3763446575997454608
+      Bush Silhouette 01 (Blurred): 2871809083168267183
+      Stones 01 (Blurred): 6356049483952842355
+      Cloud 03 (Blurred): 1298942523726499995
+      Bush 04 (Blurred): -3623944835536719136
+      Bush 03 (Blurred): -5101571587787245758
+      BG Building 04 (Blurred): 2730758427956619574
+      Pine Needles 05 (Blurred): -8204546953777243590
+      Pavement 02 LR-256 (Blurred): -3355389924021739771
+      Pine Needles 07 (Blurred): 8783396234734320317
+      Pine Needles 04 (Blurred): -6122623647737794869
+      Pine Needles 08 (Blurred): 480747311026274845
+      Pine Needles 01 (Blurred): 4698193682968500961
+      Tree Pine 01 (Blurred): 6141083276740684161
+      Tree Pine 03 (Blurred): -5643949043595665689
+      BG Building 02 T-340 B-140 (Blurred): -2966362890043969121
+      Stones 02 (Blurred): 6764804724085713091
+      Pine Needles 02 (Blurred): 1565753604293991679
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

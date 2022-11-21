@@ -140,10 +140,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -153,8 +155,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -182,6 +184,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1072,9 +1075,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Wall 09 LRTB-64 (Blurred): -7245170741062201929
+      Beam 01 LR-64 (Blurred): -1125989731673218134
+      Platform 04 LR-128 (Blurred): 4151194727582515552
+      Roof 01 LR-256 (Blurred): 5025233773856918371
+      Wall 11 LRTB-64 (Blurred): 6365125908849038642
+      Roof 06 TB-64 (Blurred): -6220080367504489031
+      Shadow 01 (Blurred): 353177619474058052
+      Wall 04 LRTB-64 (Blurred): 206450576787650826
+      Platform 02 LR-256 (Blurred): -1347938168359701866
+      Platform 08 LR-64 TB-32 (Blurred): -78045555191606972
+      Wall 08 LRTB-64 (Blurred): 2994748346946484179
+      Bricks Block 01 LRTB-64 (Blurred): 1165001838234060676
+      Roof 08 TB-64 (Blurred): 6773220476028543216
+      Wall 05 LRTB-64 (Blurred): 379768080397246835
+      Beam 02 LR-128 (Blurred): -930947206743342105
+      Briks 04 TB-64-128-256 (Blurred): -7084171748431892816
+      Roof 03 LR-640 (Blurred): 971956440153438114
+      Briks 03 TB-256 (Blurred): -2551243403476327703
+      Beam 04 LR-64 (Blurred): -4584310356759110113
+      Platform 07 LR-128 (Blurred): 5102280993158097463
+      Roof 07 TB-64 (Blurred): -5298312847823041094
+      Platform 05 LR-96-224 (Blurred): -317810381165318851
+      Platform 03 LR-256 (Blurred): -6587635207050377007
+      Bricks Block 02 LRTB-64 (Blurred): 8204433636714368875
+      Roof 05 LR-640 (Blurred): -6498553289403440261
+      Roof 04 LR-256 (Blurred): 8159518565369664752
+      Wall 07 LRTB-64 (Blurred): -1886687909548907791
+      Platform 01 LR-128 (Blurred): 6472559063074669014
+      Briks 02 TB-64 (Blurred): 3972484555863512645
+      Roof 09 TB-64 (Blurred): 3614197129089120354
+      Roof 02 LR-256 (Blurred): -3514005641740390922
+      Wall 12 LRTB-64 (Blurred): -7387563040107032449
+      Platform 06 LR-256 (Blurred): 8168134097532287733
+      Wall 01 LRTB-64 (Blurred): 1632077683150559789
+      Wall 10 LRTB-64 (Blurred): -7224073828889364849
+      Beam 03 LR-64 (Blurred): -1830143507499944487
+      Briks 01 TB-64 (Blurred): 2104209075111369103
+      Wall 06 LRTB-64 (Blurred): -8073244040888276996
+      Wall 02 LRTB-64 (Blurred): 9209488192886729919
+      Wall 03 LR-256 TB-64 (Blurred): 8677471416347873637
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

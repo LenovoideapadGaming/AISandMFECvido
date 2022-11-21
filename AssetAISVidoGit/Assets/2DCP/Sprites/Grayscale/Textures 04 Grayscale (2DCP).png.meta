@@ -122,10 +122,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -135,8 +137,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -164,6 +166,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -928,9 +931,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cloud 04: -6074261476714486436
+      Stones 02: 6764804724085713091
+      Pavement 01 LR-128: -3763446575997454608
+      BG Bridge 02 LR-128: 7265703526885160360
+      Pine Needles 03: 1409309881116252654
+      Pine Needles 04: -6122623647737794869
+      Cloud 03: 1298942523726499995
+      BG Building 01 T-310 B-128: -5331290304776637444
+      BG Building 03: 163474069382202118
+      Tree Pine 05: 701010953856558896
+      Pine Needles 02: 1565753604293991679
+      Bush 01: -1133838059554327100
+      Stones 03: -5899483887500180312
+      Tree Pine 01: 6141083276740684161
+      Bush 03: -5101571587787245758
+      Pavement 02 LR-256: -3355389924021739771
+      BG Bridge 01 LR-128: -4598832124919308699
+      Tree Pine 03: -5643949043595665689
+      Pine Needles 07: 8783396234734320317
+      Bush 05: 97985520712042729
+      Pine Needles 08: 480747311026274845
+      Pine Needles 05: -8204546953777243590
+      Tree Pine 02: -3740240981187414641
+      Cloud 02: -7008000529349467411
+      BG Building 02 T-340 B-140: -2966362890043969121
+      Pine Needles 06: -8686475156540293427
+      Bush 04: -3623944835536719136
+      Tree Pine 04: -4143541199454401157
+      Bush 02: -8162296317901528679
+      Bush Silhouette 01: 2871809083168267183
+      Stones 01: 6356049483952842355
+      Cloud 01: 5437213662620271355
+      Stones 04: 4267562217521859196
+      Pine Needles 01: 4698193682968500961
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

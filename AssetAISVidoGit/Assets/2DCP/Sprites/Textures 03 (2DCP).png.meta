@@ -200,10 +200,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -213,8 +215,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -242,6 +244,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1552,9 +1555,69 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Briks Prop 01: 8180865310367066928
+      Lantern Prop 06: 6363820710750702457
+      Window Frame Prop 06: -5858267354688831080
+      Window Prop 09: -6951886720406107005
+      Box Prop 01: 3273311576196162195
+      Window Prop 08: -6822931449134277534
+      Window Glass 01 LRTB-128: 4593499179534061663
+      Window Frame Prop 02: 4910784114893719978
+      Window Frame Prop 05: 917547183898389844
+      Candle Prop 02: 1659955249319702438
+      Chimney 01: -8307997916299741913
+      Lantern Prop 01: -8258237785216498299
+      Corbel 01: -7592319818403780958
+      Window Grill 01 LRTB-128: 2750229944642172287
+      Corbel Prop 04: 3091709759612134933
+      Candles Prop 01: -1924001963047662087
+      Candle Prop 01: 3081924379298138200
+      Window Frame Prop 01 LR-136 T-137 B-164: -3977840418316210984
+      Lantern Prop 05: -8366885505565034897
+      Candles Prop 02: -6731296398583427491
+      Candles Prop 03: 41781130264865894
+      Door Prop 03: -7356994401438924251
+      Skull Prop 03: 5510143686657235355
+      Window Glass 05: -7281154540935373909
+      Window Frame Prop 09: -3767784527093711126
+      Window Prop 05: -5739186056549083355
+      Window Prop 06: -4720794049880216922
+      Box Prop 03 L-80 R-150 TB-90: -8516788256126557320
+      Skull Prop 01: 5064826180335979796
+      Window Glass 03 LRTB-128: 3627370734236526275
+      Window Prop 03: 3670301690259348584
+      Candle Prop 03: -4223142613129941976
+      Candles Prop 04: -3006781724926949192
+      Lantern Prop 04: -7168647162373712013
+      Doorhandle Prop 01: 53390439670081722
+      Door Prop 04: 6066514997283982822
+      Lantern Prop 03: 117776806788505602
+      Window Prop 07: 8095002658017122042
+      Briks Prop 02: 647320148006104295
+      Window Glass 02 LRTB-128: 3700891173119597892
+      Window Frame Prop 04: 5103845799817094632
+      Lantern Prop 02: 3372429512763470330
+      Bas-relief Prop 01 flower: 4086421132753134573
+      Window Frame Prop 07: 9149271655160783056
+      Bas-relief Prop 02 flower: 3498072343638026650
+      Corbel 03: 4600822481892362638
+      Skulls Prop 01: 5561204693134415288
+      Window Frame Prop 08: 681245384765999530
+      Box Prop 02: 6726438754278678604
+      Door Prop 02: 4679330611514542581
+      Skull Prop 02: 6719965813291280002
+      Window Glass 04 LRTB-128: -4568474680289345795
+      Window Prop 04: -2071870890757206293
+      Window Frame Prop 03: -6187521146523700186
+      Corbel 02: -2863398284254542481
+      Doorhandle Prop 02: 6034999492244797014
+      Window Prop 01: -6464142980282638753
+      Door Prop 05: -7567340688657071366
+      Door Prop 01: -751986708001507599
+      Window Prop 02: 6296814877244748210
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
